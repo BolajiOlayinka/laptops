@@ -371,7 +371,31 @@
 {
     "brands":"Dell",
     "models":[
-        
+        "Alienware x15",
+        "Alienware m15 R6",
+        "Alienware m15 Ryzen™",
+        "Alienware m15 R4",
+        "Alienware x17",
+        "Alienware 13",
+        "Alienware 15",
+        "Alienware 17",
+        "Alienware 14",
+        "Alienware 13",
+        "Alienware 15",
+        "G15",
+         "G15 Ryzen™",
+         "Dell 3579",
+        "Dell 3779",
+        "Dell 3590",
+        "Dell 5587",
+        "Dell 5590",
+        "Dell 5590SE",
+        "Dell 7588",
+        "Dell 7590",
+        "Dell 7790",
+        "Dell 7500",
+        "Dell 7700"
+
     ]
 }
 ]
