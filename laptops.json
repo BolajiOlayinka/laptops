@@ -1933,5 +1933,32 @@
             "Karonda Tk.119,950",
             "Waxjambu GL710H"
         ]
+    },
+    {
+        "brands": "Illegear",
+        "series": [
+            "Arté Series",
+            "Ionic Series",
+            "Laguna Series",
+            "Onyx Series",
+            "Prodigy",
+            "Rogue Series",
+            "Selenite Series"
+        ],
+        "models": [
+            "Illegear 14",
+            "Ionic Light",
+            "Ionic  Touch",
+            "Ionic Thin",
+            "Ionic 14",
+            "Ionic 15",
+            "Laguna SE",
+            "Onyx G",
+            "Prodigy i7-9750H",
+            "Prodigy GTX 1660TI",
+            "Rogue AMD",
+            "Selenite G",
+            "Selenite Pro"
+        ]
     }
 ]
