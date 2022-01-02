@@ -2298,5 +2298,16 @@
             "Redmi Book 16",
             "Redmi Book Pro"
         ]
+    },{
+        "brands":"Razer",
+        "series":["Blade"],
+        "models":[
+            "Blade 15 Studio",
+            "Blade 15 Advanced",
+            "Blade Pro 17",
+            "Blade 15",
+            "Blade Stealth 13",
+            "Blade Book 13"
+        ]
     }
 ]
