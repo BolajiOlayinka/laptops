@@ -2008,7 +2008,7 @@
     },
     {
         "brands":"Microtech",
-        "Series":["Corebook","Corebook","Lite"],
+        "series":["Corebook","Corebook","Lite"],
         "models":[
             "CoreBook i3",
             "CoreBook R5",
@@ -2020,7 +2020,7 @@
         ]
     },{
         "brands":"Monster Notebook",
-        "Series":["Abra","Tulpar","Huma","Semruk","Markut"
+        "series":["Abra","Tulpar","Huma","Semruk","Markut"
 
         ],
         "models":[
@@ -2095,6 +2095,15 @@
             "Allbook Q",
             "Allbook i",
             "VivaBook"
+        ]
+    },
+    {
+        "brands":"Google",
+        "series":null,
+        "models":[
+            "Chromebook Pixel",
+            "Pixelbook",
+            "Pixelbook Go"
         ]
     }
 ]
