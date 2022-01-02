@@ -1960,5 +1960,38 @@
             "Selenite G",
             "Selenite Pro"
         ]
+    },{
+        "brands":"Eurocom",
+        "series":[
+            "Sky",
+            "Tornardo",
+            "Monster",
+            "Nightsky",
+            "Commander"
+        ],
+        "models":[
+            "Sky DLX7",
+            "Sky M5",
+            "Sky X7E2",
+            "Eurocom X7E2",
+            "Sky X4E2",
+            "Sky MX5 R3",
+            "Sky X9E3",
+            "Sky X9E3",
+            "Sky X9C",
+            "Sky X4C",
+            "Sky X7C",
+            "Tornado F5",
+            "Tornado F7W",
+            "Nightsky RX15",
+            "Nightsky ARX315",
+            "Nightsky RX317",
+            "Nightsky ARX15",
+            "Nightsky RX15",
+            "Commander 1",
+            "Commander 2",
+            "Monster 1.0",
+            "Monster 4"
+        ]
     }
 ]
