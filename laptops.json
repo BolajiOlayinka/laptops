@@ -2309,5 +2309,19 @@
             "Blade Stealth 13",
             "Blade Book 13"
         ]
+    },{
+        "brands":"VAIO",
+        "series":["Z-series"],
+        "models":[
+            "Vaio Z5xx",
+            "Vaio Z6xx",
+            "Vaio Z7xx",
+            "Vaio Z8xx",
+            "Vaio Z11",
+            "Vaio Z12",
+            "Vaio Z13",
+            "Vaio Z14",
+            "Vaio Z21"
+        ]
     }
 ]
