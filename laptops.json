@@ -2105,5 +2105,18 @@
             "Pixelbook",
             "Pixelbook Go"
         ]
+    },
+    {
+        "brands":"Lg",
+        "series":["Xnote","LG Gram"],
+        "models":[
+            "Xnote N450",
+            "Xnote N550",
+            "Xnote Z330",
+            "Xnote P330",
+            "Xnote A510",
+            "Xnote U560",
+            "LG Gram 17"
+        ]
     }
 ]
