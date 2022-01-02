@@ -2189,5 +2189,36 @@
             "Surface Duo 2",
             "Surface Duo"
         ]
+    },{
+        "brands":"MSI",
+        "series":[
+            "Megabook","Modern","GT Wind",
+        ],
+        "models":[
+            "Megabook VR600",
+            "Megabook VR601",
+            "Megabook VR700",
+            "Megabook VR610",
+            "Megabook VR201",
+            "Megabook VR220YA",
+            "Megabook VR705",
+            "Megabook VR630",
+            "Megabook EX600",
+            "Megabook EX710",
+            "Megabook EX610",
+            "Megabook EX700",
+            "Megabook EX620",
+            "Modern 15",
+            "Modern 14",
+            "GT Wind U100",
+            "GT Wind U123",
+            "GT Wind U100X",
+            "GT Wind U250",
+            "GT Wind U230",
+            "GT Wind U040",
+            "GT Wind AE2410G",
+            "GT Wind AE2410",
+            "GT Wind L1300"
+        ]   
     }
 ]
