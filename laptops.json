@@ -2323,5 +2323,22 @@
             "Vaio Z14",
             "Vaio Z21"
         ]
+    },{
+        "brands":"Chuwi",
+        "series":["Lapbook"],
+        "models":[
+            "Lapbook",
+            "Lapbook Air",
+            "Lapbook SE",
+            "Lapbook 12.3",
+            "Lapbook Pro",
+            "Lapbook Plus",
+            "Aerobook",
+            "Herobook",
+            "CorebookX",
+            "Herobook Pro"
+        ]
+    },{
+        
     }
 ]
