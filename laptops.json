@@ -2052,7 +2052,7 @@
         ]
     },{
         "brands":"Casper",
-        "Series":[
+        "series":[
             "Nirvana","Excalibur"
         ],
         "models":[
@@ -2067,6 +2067,23 @@
             "Excalibur G900",
             "Excalibur G700",
             "Excalibur G780"
+        ]
+    },
+    {
+        "brands":"Purism",
+        "series":null,
+        "models":[
+            "Librem 5",
+            "Librem 14",
+            "Librem 15",
+            "Librem 15v1",
+            "Librem 13",
+            "Librem 13v2",
+            "Librem 13V4",
+            "Librem 15V4",
+            "Librem 15V3",
+            "Librem 13V2",
+            "Librem 15 Rev 2"
         ]
     }
 ]
