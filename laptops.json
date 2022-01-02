@@ -2149,5 +2149,14 @@
             "PowerStation i.SO2",
             "Mini-Server"
         ]
+    },{
+        "brands":"Nokia",
+        "series":null,
+        "models":[
+            "Purebook X14",
+            "Purebook S14"
+        ]
+    },{
+        
     }
 ]
