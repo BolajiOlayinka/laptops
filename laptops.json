@@ -2416,5 +2416,14 @@
             "SF510",
             "SF511"
         ]
+    },{
+        "brands":"Alienware",
+        "series":null,
+        "models":[
+            "X15",
+            "X16",
+            "M15",
+            "Area-51m R2"
+        ]
     }
 ]
