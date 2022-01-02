@@ -2339,6 +2339,12 @@
             "Herobook Pro"
         ]
     },{
-        
+        "brands":"Realme",
+        "series":["RealmeBook"],
+        "models":[
+            "Realmebook Slim",
+            "Realmebook 14",
+            "Realmebook slim i5"
+        ]
     }
 ]
