@@ -2228,5 +2228,25 @@
             "Aerial",
             "Ediam"
         ]
+    },{
+        "brands":"Optima",
+        "series":null,
+        "models":[
+            "OptimBook",
+            "OptimBook Pro",
+            "NoteBook",
+            "NoteBook Pro",
+            "MECIPT",
+            "MECIPT Pro",
+            "DACICC",
+            "DACICC Pro",
+            "CIFA",
+            "CIFA Pro",
+            "CET",
+            "CET Pro",
+            "Coral",
+            "Coral Pro",
+            "Workstation Pro"
+        ]
     }
 ]
