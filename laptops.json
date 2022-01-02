@@ -2192,7 +2192,7 @@
     },{
         "brands":"MSI",
         "series":[
-            "Megabook","Modern","GT Wind",
+            "Megabook","Modern","GT Wind"
         ],
         "models":[
             "Megabook VR600",
@@ -2274,6 +2274,13 @@
             "Toughpad 4K",
             "Toughpad FZ-E1",
             "Toughpad FZ-X1"
+        ]
+    },{
+        "brands":"Gateway",
+        "series":null,
+        "models":[
+            "v  2-in-1 Convertible",
+            "Ultra Slim"
         ]
     }
 ]
