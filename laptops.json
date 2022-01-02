@@ -1993,5 +1993,17 @@
             "Monster 1.0",
             "Monster 4"
         ]
+    },
+    {
+        "brands":"Origin PC",
+        "series":null,
+        "models":[
+            "Origin EVO15-S",
+            "Origin EVO17-S",
+            "Origin EVO17-X",
+            "Origin NT-15i",
+            "Origin NT-15",
+            "Origin NT-17"
+        ]
     }
 ]
