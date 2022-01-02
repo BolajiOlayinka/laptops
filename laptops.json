@@ -2489,5 +2489,43 @@
             "Dynabook E-10"
             
         ]
+    },{
+        "brands":"Hyundai",
+        "series":null,
+        "models":[
+            "Flip",
+            "book",
+            "flipnote",
+            "thinnote",
+            "Hy Book"
+        ]
+    },
+    {
+        "brands":"Gigabyte",
+        "series":["Aorus,Aero,Gaming"],
+        "models":[
+            "Aorus 15P",
+            "Aero 15",
+            "Aero 15P",
+            "Aero 17",
+            "Aero 15OLED",
+            "Aero 15XC",
+            "Aero 15X9",
+            "Aero 14KV7",
+            "Gaming G5",
+            "Gaming G7"
+        ]
+    },{
+        "brands":"Glovo",
+        "series":null,
+        "models":[
+            "Clevo"
+        ]
+    },{
+        "brands":"BOXX",
+        "series":null,
+        "models":[
+            "GoBOXX"
+        ]
     }
 ]
