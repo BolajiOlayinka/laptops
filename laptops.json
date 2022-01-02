@@ -2085,5 +2085,16 @@
             "Librem 13V2",
             "Librem 15 Rev 2"
         ]
+    },
+    {
+        "brands":"Allview",
+        "series":null,
+        "models":[
+            "Portable Workstation",
+            "GamesBook",
+            "Allbook Q",
+            "Allbook i",
+            "VivaBook"
+        ]
     }
 ]
