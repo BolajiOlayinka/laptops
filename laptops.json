@@ -2425,5 +2425,17 @@
             "M15",
             "Area-51m R2"
         ]
+    },{
+        "brands":"System76",
+        "series":null,
+        "models":[
+            "v Galago Pro",
+            "Oryx Pro",
+            "Pangolin",
+            "Lemur Pro",
+            "Gazelle",
+            "Darter Pro",
+            "Serval WS"
+        ]
     }
 ]
