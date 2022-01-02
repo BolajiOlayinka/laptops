@@ -2282,5 +2282,21 @@
             "v  2-in-1 Convertible",
             "Ultra Slim"
         ]
+    },{
+        "brands":"Xiomi",
+        "series":["Redmi Book, Notebook"],
+        "models":[
+            "Mi NoteBook",
+            "RedmiBook",
+            "Notebook 14",
+            "Notebook Air",
+            "Notebook Pro",
+            "Redmi Book 14",
+            "Redmi Book 14 Pro",
+            "Redmi Book 15",
+            "Redmi Book 15 Pro",
+            "Redmi Book 16",
+            "Redmi Book Pro"
+        ]
     }
 ]
