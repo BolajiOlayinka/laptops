@@ -2220,5 +2220,13 @@
             "GT Wind AE2410",
             "GT Wind L1300"
         ]   
+    },
+    {
+        "brands":"njoy",
+        "series":null,
+        "models":[
+            "Aerial",
+            "Ediam"
+        ]
     }
 ]
