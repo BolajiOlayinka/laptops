@@ -2050,5 +2050,23 @@
             "Markut V17",
             "Markut V3"
         ]
+    },{
+        "brands":"Casper",
+        "Series":[
+            "Nirvana","Excalibur"
+        ],
+        "models":[
+            "Nirvana X500",
+            "Nirvana X400",
+            "Nirvana S500",
+            "Nirvana C350",
+            "Nirvana C400",
+            "Nirvana F750",
+            "Nirvana F650",
+            "Nirvana C600",
+            "Excalibur G900",
+            "Excalibur G700",
+            "Excalibur G780"
+        ]
     }
 ]
