@@ -2118,5 +2118,36 @@
             "Xnote U560",
             "LG Gram 17"
         ]
+    },{
+        "brands":"Huawei",
+        "series":[],
+        "models":[
+            "Matebook 13",
+            "Matebook X pro",
+            "Matebook D15",
+            "Matebook D14"
+        ]
+    },{
+        "brands":"Maguay",
+        "series":[
+            "MyWay",
+            "GamePower",
+            "OfficePower",
+            "ExpertStation",
+            "PowerStation"
+            
+        ],
+        "models":[
+            "MyWay P17054X",
+            "MyWay U1401i",
+            "MyWay P1507X",
+            "MyWay P102M",
+            "Gamepower X99",
+            "OfficePower CS i3-7100",
+            "ExpertStation",
+            "PowerStation X1.E3",
+            "PowerStation i.SO2",
+            "Mini-Server"
+        ]
     }
 ]
