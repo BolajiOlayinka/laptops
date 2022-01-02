@@ -2005,5 +2005,18 @@
             "Origin NT-15",
             "Origin NT-17"
         ]
+    },
+    {
+        "brands":"Microtech",
+        "Series":["Corebook","Corebook","Lite"],
+        "models":[
+            "CoreBook i3",
+            "CoreBook R5",
+            "Corebook Notebook",
+            "Lite A",
+            "Lite C",
+            "E-book Lite"
+           
+        ]
     }
 ]
