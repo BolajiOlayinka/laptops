@@ -2248,5 +2248,32 @@
             "Coral Pro",
             "Workstation Pro"
         ]
+    },{
+        "brands":"Panasonic",
+        "series":[
+            "Toughbook","Toughpad"
+        ],
+        "models":[
+            "Toughbook 31",
+            "Toughbook 55",
+            "Toughbook 19",
+            "Toughbook C2",
+            "Toughbook 53",
+            "Toughbook 54",
+            "Toughbook C1",
+            "Toughbook 33",
+            "Toughbook CF20",
+            "Toughbook SX2",
+            "Toughbook AX3",
+            "Toughbook LX3",
+            "Toughbook MX4",
+            "Toughpad FZ-G1",
+            "Toughpad FZ-B2",
+            "Toughpad FZ-M1",
+            "Toughpad FZ-R1",
+            "Toughpad 4K",
+            "Toughpad FZ-E1",
+            "Toughpad FZ-X1"
+        ]
     }
 ]
