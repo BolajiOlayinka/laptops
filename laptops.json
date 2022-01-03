@@ -2614,5 +2614,52 @@
             "F117",
             "FV65"
         ]
+    },{
+        "brands":"Jumper",
+        "series":null,
+        "models":[
+            "EZpad go",
+            "EZpad",
+            "EZBook"
+        ]
+    },
+    {
+        "brands":"Durabook",
+        "series":null,
+        "models":[
+            "Z141",
+            "S141",
+            "S15AB",
+            "R8300"
+        ]
+    },{
+        "brands":"Walmart",
+        "series":null,
+        "models":[
+            "Motile"
+        ]
+    },{
+        "brands":"Cyberpower PC",
+        "series":null,
+        "models":[
+            "Tracer V Series",
+            "Tracer IV",
+            "Tracer III"
+        ]
+    },{
+        "brands":"VIT",
+        "series":null,
+        "models":[
+            "P1420",
+            "P3310-01",
+            "P3310-02"
+        ]
+    },{
+        "brands":"Lava International",
+        "series":null,
+        "models":[
+            "Twinpad",
+            "Helium Series"
+        ]
     }
 ]
