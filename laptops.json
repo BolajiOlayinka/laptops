@@ -1960,16 +1960,17 @@
             "Selenite G",
             "Selenite Pro"
         ]
-    },{
-        "brands":"Eurocom",
-        "series":[
+    },
+    {
+        "brands": "Eurocom",
+        "series": [
             "Sky",
             "Tornardo",
             "Monster",
             "Nightsky",
             "Commander"
         ],
-        "models":[
+        "models": [
             "Sky DLX7",
             "Sky M5",
             "Sky X7E2",
@@ -1995,9 +1996,9 @@
         ]
     },
     {
-        "brands":"Origin PC",
-        "series":null,
-        "models":[
+        "brands": "Origin PC",
+        "series": null,
+        "models": [
             "Origin EVO15-S",
             "Origin EVO17-S",
             "Origin EVO17-X",
@@ -2007,23 +2008,31 @@
         ]
     },
     {
-        "brands":"Microtech",
-        "series":["Corebook","Corebook","Lite"],
-        "models":[
+        "brands": "Microtech",
+        "series": [
+            "Corebook",
+            "Corebook",
+            "Lite"
+        ],
+        "models": [
             "CoreBook i3",
             "CoreBook R5",
             "Corebook Notebook",
             "Lite A",
             "Lite C",
             "E-book Lite"
-           
         ]
-    },{
-        "brands":"Monster Notebook",
-        "series":["Abra","Tulpar","Huma","Semruk","Markut"
-
+    },
+    {
+        "brands": "Monster Notebook",
+        "series": [
+            "Abra",
+            "Tulpar",
+            "Huma",
+            "Semruk",
+            "Markut"
         ],
-        "models":[
+        "models": [
             "Abra A7 V11.3.2",
             "Abra A7 V11.3.1",
             "Abra A7 V11.3",
@@ -2035,7 +2044,7 @@
             "Tulpar T5 V21.1",
             "Tulpar T7 V21.3.1",
             "Monster Tulpar T7 V20.2",
-            "Monster Tulpar T7 V20.3",   
+            "Monster Tulpar T7 V20.3",
             "Huma H5",
             "Huma H4",
             "Huma H5",
@@ -2050,12 +2059,14 @@
             "Markut V17",
             "Markut V3"
         ]
-    },{
-        "brands":"Casper",
-        "series":[
-            "Nirvana","Excalibur"
+    },
+    {
+        "brands": "Casper",
+        "series": [
+            "Nirvana",
+            "Excalibur"
         ],
-        "models":[
+        "models": [
             "Nirvana X500",
             "Nirvana X400",
             "Nirvana S500",
@@ -2070,9 +2081,9 @@
         ]
     },
     {
-        "brands":"Purism",
-        "series":null,
-        "models":[
+        "brands": "Purism",
+        "series": null,
+        "models": [
             "Librem 5",
             "Librem 14",
             "Librem 15",
@@ -2087,9 +2098,9 @@
         ]
     },
     {
-        "brands":"Allview",
-        "series":null,
-        "models":[
+        "brands": "Allview",
+        "series": null,
+        "models": [
             "Portable Workstation",
             "GamesBook",
             "Allbook Q",
@@ -2098,18 +2109,21 @@
         ]
     },
     {
-        "brands":"Google",
-        "series":null,
-        "models":[
+        "brands": "Google",
+        "series": null,
+        "models": [
             "Chromebook Pixel",
             "Pixelbook",
             "Pixelbook Go"
         ]
     },
     {
-        "brands":"Lg",
-        "series":["Xnote","LG Gram"],
-        "models":[
+        "brands": "Lg",
+        "series": [
+            "Xnote",
+            "LG Gram"
+        ],
+        "models": [
             "Xnote N450",
             "Xnote N550",
             "Xnote Z330",
@@ -2118,26 +2132,27 @@
             "Xnote U560",
             "LG Gram 17"
         ]
-    },{
-        "brands":"Huawei",
-        "series":[],
-        "models":[
+    },
+    {
+        "brands": "Huawei",
+        "series": [],
+        "models": [
             "Matebook 13",
             "Matebook X pro",
             "Matebook D15",
             "Matebook D14"
         ]
-    },{
-        "brands":"Maguay",
-        "series":[
+    },
+    {
+        "brands": "Maguay",
+        "series": [
             "MyWay",
             "GamePower",
             "OfficePower",
             "ExpertStation",
             "PowerStation"
-            
         ],
-        "models":[
+        "models": [
             "MyWay P17054X",
             "MyWay U1401i",
             "MyWay P1507X",
@@ -2149,19 +2164,23 @@
             "PowerStation i.SO2",
             "Mini-Server"
         ]
-    },{
-        "brands":"Nokia",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Nokia",
+        "series": null,
+        "models": [
             "Purebook X14",
             "Purebook S14"
         ]
-    },{
-        "brands":"Microsoft",
-        "series":[
-            "Surface","Surface Pro","Surface Book"
+    },
+    {
+        "brands": "Microsoft",
+        "series": [
+            "Surface",
+            "Surface Pro",
+            "Surface Book"
         ],
-        "models":[
+        "models": [
             "Surface",
             "Surface 2",
             "Surface Go",
@@ -2189,12 +2208,15 @@
             "Surface Duo 2",
             "Surface Duo"
         ]
-    },{
-        "brands":"MSI",
-        "series":[
-            "Megabook","Modern","GT Wind"
+    },
+    {
+        "brands": "MSI",
+        "series": [
+            "Megabook",
+            "Modern",
+            "GT Wind"
         ],
-        "models":[
+        "models": [
             "Megabook VR600",
             "Megabook VR601",
             "Megabook VR700",
@@ -2219,19 +2241,20 @@
             "GT Wind AE2410G",
             "GT Wind AE2410",
             "GT Wind L1300"
-        ]   
+        ]
     },
     {
-        "brands":"njoy",
-        "series":null,
-        "models":[
+        "brands": "njoy",
+        "series": null,
+        "models": [
             "Aerial",
             "Ediam"
         ]
-    },{
-        "brands":"Optima",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Optima",
+        "series": null,
+        "models": [
             "OptimBook",
             "OptimBook Pro",
             "NoteBook",
@@ -2248,12 +2271,14 @@
             "Coral Pro",
             "Workstation Pro"
         ]
-    },{
-        "brands":"Panasonic",
-        "series":[
-            "Toughbook","Toughpad"
+    },
+    {
+        "brands": "Panasonic",
+        "series": [
+            "Toughbook",
+            "Toughpad"
         ],
-        "models":[
+        "models": [
             "Toughbook 31",
             "Toughbook 55",
             "Toughbook 19",
@@ -2275,17 +2300,21 @@
             "Toughpad FZ-E1",
             "Toughpad FZ-X1"
         ]
-    },{
-        "brands":"Gateway",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Gateway",
+        "series": null,
+        "models": [
             "v  2-in-1 Convertible",
             "Ultra Slim"
         ]
-    },{
-        "brands":"Xiomi",
-        "series":["Redmi Book, Notebook"],
-        "models":[
+    },
+    {
+        "brands": "Xiomi",
+        "series": [
+            "Redmi Book, Notebook"
+        ],
+        "models": [
             "Mi NoteBook",
             "RedmiBook",
             "Notebook 14",
@@ -2298,10 +2327,13 @@
             "Redmi Book 16",
             "Redmi Book Pro"
         ]
-    },{
-        "brands":"Razer",
-        "series":["Blade"],
-        "models":[
+    },
+    {
+        "brands": "Razer",
+        "series": [
+            "Blade"
+        ],
+        "models": [
             "Blade 15 Studio",
             "Blade 15 Advanced",
             "Blade Pro 17",
@@ -2309,10 +2341,13 @@
             "Blade Stealth 13",
             "Blade Book 13"
         ]
-    },{
-        "brands":"VAIO",
-        "series":["Z-series"],
-        "models":[
+    },
+    {
+        "brands": "VAIO",
+        "series": [
+            "Z-series"
+        ],
+        "models": [
             "Vaio Z5xx",
             "Vaio Z6xx",
             "Vaio Z7xx",
@@ -2323,10 +2358,13 @@
             "Vaio Z14",
             "Vaio Z21"
         ]
-    },{
-        "brands":"Chuwi",
-        "series":["Lapbook"],
-        "models":[
+    },
+    {
+        "brands": "Chuwi",
+        "series": [
+            "Lapbook"
+        ],
+        "models": [
             "Lapbook",
             "Lapbook Air",
             "Lapbook SE",
@@ -2338,17 +2376,21 @@
             "CorebookX",
             "Herobook Pro"
         ]
-    },{
-        "brands":"Realme",
-        "series":["RealmeBook"],
-        "models":[
+    },
+    {
+        "brands": "Realme",
+        "series": [
+            "RealmeBook"
+        ],
+        "models": [
             "Realmebook Slim",
             "Realmebook 14",
             "Realmebook slim i5"
         ]
-    },{
-        "brands":"Samsung",
-        "series":[
+    },
+    {
+        "brands": "Samsung",
+        "series": [
             "E-series",
             "M-series",
             "N-series",
@@ -2361,12 +2403,12 @@
             "X-Series",
             "G-Series"
         ],
-        "models":[
+        "models": [
             "E3520",
             "M50",
             "M70",
-            "M550",  
-            "NC 10", 
+            "M550",
+            "NC 10",
             "Notebook 7",
             "Notebook 9",
             "Q Series",
@@ -2416,19 +2458,21 @@
             "SF510",
             "SF511"
         ]
-    },{
-        "brands":"Alienware",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Alienware",
+        "series": null,
+        "models": [
             "X15",
             "X16",
             "M15",
             "Area-51m R2"
         ]
-    },{
-        "brands":"System76",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "System76",
+        "series": null,
+        "models": [
             "v Galago Pro",
             "Oryx Pro",
             "Pangolin",
@@ -2437,10 +2481,15 @@
             "Darter Pro",
             "Serval WS"
         ]
-    },{
-        "brands":"Dynabook",
-        "series":["Portégé","Treca","Satelite"],
-        "models":[
+    },
+    {
+        "brands": "Dynabook",
+        "series": [
+            "Portégé",
+            "Treca",
+            "Satelite"
+        ],
+        "models": [
             "Portégé T3400ct",
             "Portégé T3600ct/500",
             "Portégé 300CT",
@@ -2481,18 +2530,18 @@
             "Portégé R30-A",
             "Portégé Z30-A",
             "Portégé A30-D",
-            "Portégé X20W-E", 
+            "Portégé X20W-E",
             "Treca A series",
-            "Treca X seies", 
+            "Treca X seies",
             "Satellite C-40 J",
             "Satellite C-50 J",
             "Dynabook E-10"
-            
         ]
-    },{
-        "brands":"Hyundai",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Hyundai",
+        "series": null,
+        "models": [
             "Flip",
             "book",
             "flipnote",
@@ -2501,9 +2550,11 @@
         ]
     },
     {
-        "brands":"Gigabyte",
-        "series":["Aorus,Aero,Gaming"],
-        "models":[
+        "brands": "Gigabyte",
+        "series": [
+            "Aorus,Aero,Gaming"
+        ],
+        "models": [
             "Aorus 15P",
             "Aero 15",
             "Aero 15P",
@@ -2515,17 +2566,53 @@
             "Gaming G5",
             "Gaming G7"
         ]
-    },{
-        "brands":"Glovo",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Glovo",
+        "series": null,
+        "models": [
             "Clevo"
         ]
+    },
+    {
+        "brands": "BOXX",
+        "series": null,
+        "models": [
+            "GoBOXX"
+        ]
+    },
+    {
+        "brands": "Vastking",
+        "series": null,
+        "models": [
+            "KingPad",
+            "Kingbook"
+        ]
     },{
-        "brands":"BOXX",
+        "brands":"Fujitsu",
         "series":null,
         "models":[
-            "GoBOXX"
+            "Notebook",
+            "Lifebook"
+        ]
+    },
+    {
+        "brands":"Bmak",
+        "series":null,
+        "models":[
+            "Maxbook Y11",
+            "Maxbook X15",
+            "Maxbook Y13",
+            "Maxbook Y13 Pro"
+        ]
+    },{
+        "brands":"Machenike",
+        "series":null,
+        "models":[
+            "Machcreator",
+            "T58",
+            "F117",
+            "FV65"
         ]
     }
 ]
