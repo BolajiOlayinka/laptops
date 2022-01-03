@@ -2588,78 +2588,203 @@
             "KingPad",
             "Kingbook"
         ]
-    },{
-        "brands":"Fujitsu",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Fujitsu",
+        "series": null,
+        "models": [
             "Notebook",
             "Lifebook"
         ]
     },
     {
-        "brands":"Bmak",
-        "series":null,
-        "models":[
+        "brands": "Bmak",
+        "series": null,
+        "models": [
             "Maxbook Y11",
             "Maxbook X15",
             "Maxbook Y13",
             "Maxbook Y13 Pro"
         ]
-    },{
-        "brands":"Machenike",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Machenike",
+        "series": null,
+        "models": [
             "Machcreator",
             "T58",
             "F117",
             "FV65"
         ]
-    },{
-        "brands":"Jumper",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Jumper",
+        "series": null,
+        "models": [
             "EZpad go",
             "EZpad",
             "EZBook"
         ]
     },
     {
-        "brands":"Durabook",
-        "series":null,
-        "models":[
+        "brands": "Durabook",
+        "series": null,
+        "models": [
             "Z141",
             "S141",
             "S15AB",
             "R8300"
         ]
-    },{
-        "brands":"Walmart",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Walmart",
+        "series": null,
+        "models": [
             "Motile"
         ]
-    },{
-        "brands":"Cyberpower PC",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Cyberpower PC",
+        "series": null,
+        "models": [
             "Tracer V Series",
             "Tracer IV",
             "Tracer III"
         ]
-    },{
-        "brands":"VIT",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "VIT",
+        "series": null,
+        "models": [
             "P1420",
             "P3310-01",
             "P3310-02"
         ]
-    },{
-        "brands":"Lava International",
-        "series":null,
-        "models":[
+    },
+    {
+        "brands": "Lava International",
+        "series": null,
+        "models": [
             "Twinpad",
             "Helium Series"
+        ]
+    },
+    {
+        "brands": "AGB",
+        "series": null,
+        "models": [
+            "Octev Series",
+            "Tiara",
+            "Orion"
+        ]
+    },
+    {
+        "brands": "Zeuslap",
+        "series": null,
+        "models": [
+            "15.6",
+            "13.3",
+            "14"
+        ]
+    },
+    {
+        "brands": "Xolo",
+        "series": null,
+        "models": [
+            "Chromebrook"
+        ]
+    },
+    {
+        "brands": "XMG",
+        "series": null,
+        "models": [
+            "Apex XMG FUSION",
+            "Apex XMG NEO",
+            "Apex XMG PRO",
+            "Apex XMG ULTRA",
+            "Apex Audio Laptops",
+            "Apex XMG DJ",
+            "Apex XMG PRO AUDIO",
+            "Apex XMG",
+            "APEX 15",
+            "XMG APEX 17",
+            "XMG Core",
+            "XMG Dj 15",
+            "XMG Focus",
+            "XMG Neo Series",
+            "XMG Pro Series"
+        ]
+    },
+    {
+        "brands": "Obsidian Pc",
+        "series": null,
+        "models": [
+            "PC50"
+        ]
+    },
+    {
+        "brands": "Omen",
+        "series": null,
+        "models": [
+            "Omen 15",
+            "Omen 16",
+            "Omen 17",
+            "Victus",
+            "Omen X 2S"
+        ]
+    },
+    {
+        "brands": "Falcon Northwest",
+        "series": null,
+        "models": [
+            "DRX",
+            "TLX"
+        ]
+    },
+    {
+        "brands": "Velocity Micro",
+        "series": null,
+        "models": [
+            "Signature 17",
+            "Raptor S77",
+            "Raptor MX70"
+        ]
+    },
+    {
+        "brands": "Sager Notebook Computers",
+        "series": null,
+        "models": [
+            "NP Series"
+        ]
+    },
+    {
+        "brands": "Digital Storm",
+        "series": null,
+        "models": [
+            "Avon 15",
+            "Avon 17"
+        ]
+    },
+    {
+        "brands": "Eluktronics",
+        "series": null,
+        "models": [
+            "Prometheus XVI",
+            "Prometheus XVII",
+            "GeForce RTX 30 Series",
+            "MAG-15",
+            "MECH-15 G3",
+            "MAX-15",
+            "MAX-17"
+        ]
+    },
+    {
+        "brands": "Overpowered",
+        "series": null,
+        "models": [
+            "v  Gaming Laptop 15",
+            "Gaming Laptop 15+",
+            "Gaming Laptop 17+"
         ]
     }
 ]
