@@ -1,0 +1,35 @@
+{
+  "name": "laptop-brands",
+  "version": "1.0.0",
+  "description": "A simple library that lists Laptop brands and models with no dependency",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolajiOlayinka/laptop-brand-model.git"
+  },
+  "keywords": [
+    "Laptop-Brands",
+    "Laptop-models",
+    "list-of-laptops",
+    "hp",
+    "dell",
+    "macbook",
+    "acer"
+  ],
+  "author": "Bolaji Olayinka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BolajiOlayinka/laptop-brand-model/issues"
+  },
+  "homepage": "https://github.com/BolajiOlayinka/laptop-brand-model#readme",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^9.1.3"
+  }
+}
