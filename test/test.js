@@ -5,7 +5,7 @@ var laptops = require('../index');
 // var statesAndLocalGov = require('../src/statesAndLocalGov.json')
 
 
-describe('naija-state-local-gov', function() {
+describe('laptops', function() {
     it('#all()', function() {
         var response = laptops.all();
         console.log(response)
