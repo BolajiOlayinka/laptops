@@ -22,7 +22,7 @@ describe("laptops", function () {
     // assert.equal(response[0], 'Apple');
   });
   it("should get laptop details", function () {
-    var response = laptops.getBrand("Hp");
+    var response = laptops.getBrand("apple");
     console.log(response);
   });
   it("#models()", function () {
