@@ -7,22 +7,38 @@ var laptops = require('../index');
 
 describe('laptops', function() {
     it('#all()', function() {
-        var response = laptops.all();
-        console.log(response)
+        var response = laptops.getAll();
+        
+        // console.log(response[0]);
         // assert.equal(response.length, 37);
-        // assert.equal(typeof response, typeof []);
+        // assert.equal(typeof response toequal[]);
         // assert.equal(response[1].state, statesAndLocalGov[1].state);
         // assert.equal(response[1].lgas.length, statesAndLocalGov[1].lgas.length);
     });
+    it('#brands()', function() {
+        var response = laptops.getBrands()
+        // console.log(response)
+        // assert.equal(response.length, 37);
+        // assert.equal(typeof response, typeof []);
+        // assert.equal(response[0], 'Apple');
+    });
+    it('should get laptop details', function() {
+        var response = laptops.getBrand('Hp');
+        console.log(response)
+        
+      });
+     it('#models()', function() {
+        var response = laptops.getModel()
+        // console.log(response);
+        // console.log(response)
+        // assert.equal(response.length, 37);
+        // assert.equal(typeof response, typeof []);
+        // assert.equal(response[1], statesAndLocalGov[1].state);
+        // assert.equal(response[36], 'Zamfara');
 
-    // it('#states()', function() {
-    //     var response = naijaStates.states();
-
-    //     assert.equal(response.length, 37);
-    //     assert.equal(typeof response, typeof []);
-    //     assert.equal(response[1], statesAndLocalGov[1].state);
-    //     assert.equal(response[36], 'Zamfara');
-    // });
+       
+        
+    });
 
     // it('#senatorial_districts()', function() {
     //     var response = naijaStates.senatorial_districts('Lagos');
