@@ -2,49 +2,48 @@
 
 var assert = require("assert");
 var laptops = require("../index");
-// var statesAndLocalGov = require('../src/statesAndLocalGov.json')
+const fs = require("fs");
 
 describe("laptops", function () {
-  it("#all()", function () {
+  let laptopdb = [];
+
+  before(function (done) {
+    laptopdb = JSON.parse(
+      fs.readFileSync(process.cwd() + "/laptops.json", "utf8")
+    );
+    done();
+  });
+  it("It should get all Laptop DB and it should be an object", function (done) {
     var response = laptops.getAll();
-
-    // console.log(response[0]);
-    // assert.equal(response.length, 37);
-    // assert.equal(typeof response toequal[]);
-    // assert.equal(response[1].state, statesAndLocalGov[1].state);
-    // assert.equal(response[1].lgas.length, statesAndLocalGov[1].lgas.length);
+    assert.equal(typeof response, "object");
+    assert.deepStrictEqual(response, laptopdb);
+    done();
   });
-  it("#brands()", function () {
-    var response = laptops.getBrands();
-    // console.log(response)
-    // assert.equal(response.length, 37);
-    // assert.equal(typeof response, typeof []);
-    // assert.equal(response[0], 'Apple');
-  });
-  it("should get laptop details", function () {
+  it("should get a particular laptop brand", function () {
     var response = laptops.getBrand("apple");
-    console.log(response);
-  });
-  it("#models()", function () {
-    var response = laptops.getModel();
+    assert.equal(typeof response, "object");
+    assert.deepEqual(laptops.getBrand("Optima"), {
+      brands: "Optima",
+      series: null,
+      models: [
+        "OptimBook",
+        "OptimBook Pro",
+        "NoteBook",
+        "NoteBook Pro",
+        "MECIPT",
+        "MECIPT Pro",
+        "DACICC",
+        "DACICC Pro",
+        "CIFA",
+        "CIFA Pro",
+        "CET",
+        "CET Pro",
+        "Coral",
+        "Coral Pro",
+        "Workstation Pro",
+      ],
+    });
+
     // console.log(response);
-    // console.log(response)
-    // assert.equal(response.length, 37);
-    // assert.equal(typeof response, typeof []);
-    // assert.equal(response[1], statesAndLocalGov[1].state);
-    // assert.equal(response[36], 'Zamfara');
   });
-
-  // it('#senatorial_districts()', function() {
-  //     var response = naijaStates.senatorial_districts('Lagos');
-
-  //     assert.equal(response.length, 3);
-  // });
-
-  // it('#lgas()', function() {
-  //     var response = naijaStates.lgas('Lagos');
-
-  //     assert.equal(response.state, 'Lagos');
-  //     assert.equal(response.lgas.length, 21);
-  // });
 });

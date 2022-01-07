@@ -1,6 +1,6 @@
 [
     {
-        "brands": "all-makes",
+        "brands": "all",
         "series": null,
         "models": [
             "Apple",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "brands": "popular-brands",
+        "brands": "popular",
         "series": null,
         "models": [
             "Apple",
