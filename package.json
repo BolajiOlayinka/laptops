@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple library that lists Laptop brands and models with no dependency",
   "main": "index.js",
+  "bin":"index.js",
   "directories": {
     "test": "test"
   },
@@ -11,12 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BolajiOlayinka/laptop-brand-model.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/laptops"
+    "url": "git+https://github.com/BolajiOlayinka/laptops.git"
   },
   "keywords": [
+    "Laptops",
     "Laptop-Brands",
     "Laptop-models",
     "list-of-laptops",
@@ -29,9 +28,9 @@
   "author": "Bolaji Olayinka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BolajiOlayinka/laptop-brand-model/issues"
+    "url": "https://github.com/BolajiOlayinka/laptops/issues"
   },
-  "homepage": "https://github.com/BolajiOlayinka/laptop-brand-model#readme",
+  "homepage": "https://github.com/BolajiOlayinka/laptops#readme",
   "devDependencies": {
     "assert": "^2.0.0",
     "chai": "^4.3.4",
