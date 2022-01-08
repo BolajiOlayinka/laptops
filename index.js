@@ -1,4 +1,4 @@
-const laptopBrands = require("./laptops.json");
+const laptops = require("./laptops.json");
 
 function _lower(input) {
   return input.toLowerCase().trim();
@@ -6,15 +6,15 @@ function _lower(input) {
 
 module.exports = {
   getAll: function () {
-    return laptopBrands;
+    return laptops;
   },
 
   getBrand: function (param) {
     const isBrand = isNaN(param);
     const queryType = isBrand ? "brands" : "models";
-    return laptopBrands.find(function (laptop) {
-      if (_lower(laptop[queryType]) === _lower(param)) {
-        return laptop;
+    return laptops.find(function (lap) {
+      if (_lower(lap[queryType]) === _lower(param)) {
+        return lap;
       }
     });
   },

@@ -1,5 +1,5 @@
 {
-  "name": "laptop-brands",
+  "name": "laptops",
   "version": "1.0.0",
   "description": "A simple library that lists Laptop brands and models with no dependency",
   "main": "index.js",
@@ -17,6 +17,7 @@
     "Laptop-Brands",
     "Laptop-models",
     "list-of-laptops",
+    "Laptops",
     "hp",
     "dell",
     "macbook",
