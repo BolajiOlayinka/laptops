@@ -39,3 +39,18 @@ console.log(laptops.getSeries("Apple"))
 | .getBrand(args) | args(all,popular,hp,dell...)                        | Response is an object with brand name, an array of models and series passed   |   |    |
 | .getModel(args) | args(all,popular,hp,dell,Asus...)                   | Response is an array of models that belong to a brand                         |   |    |
 | .getSeries(args)| args(all ....)                                      | Response is an array of series that belong to a brand                         |   |    |
+
+
+## Contributing
+This module tries to be exhaustive, if there are still laptops brands, models or series that havent been added,plese contribute to the project 
+* Fork this repositry to your account.
+* Clone your repositry: git clone git@github.com:your-username/laptops.git
+* Create your feature branch: git checkout -b"short feature description"
+* Commit your changes: git commit -m "feature"
+* Push to the remote branch: git push origin new-feature
+* Open a pull request.
+
+## License
+
+This project is authored by Bolaji Olayinka and is licensed 
+for your use, modification and distribution under [the MIT license](https://en.wikipedia.org/wiki/MIT_License). 
