@@ -19,6 +19,29 @@ describe("laptops", function () {
     assert.deepStrictEqual(response, laptopdb);
     done();
   });
+  it("It should return all models that belongs to a particular brand", function (done) {
+    var response = laptops.getModel('Optima');
+    console.log(response)
+    // assert.equal(typeof response, "array");
+    assert.deepStrictEqual(response, [
+      "OptimBook",
+      "OptimBook Pro",
+      "NoteBook",
+      "NoteBook Pro",
+      "MECIPT",
+      "MECIPT Pro",
+      "DACICC",
+      "DACICC Pro",
+      "CIFA",
+      "CIFA Pro",
+      "CET",
+      "CET Pro",
+      "Coral",
+      "Coral Pro",
+      "Workstation Pro",
+    ],);
+    done();
+  });
   it("should get a particular laptop brand", function () {
     var response = laptops.getBrand("apple");
     assert.equal(typeof response, "object");
