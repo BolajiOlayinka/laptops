@@ -22,7 +22,7 @@ describe("laptops", function () {
   it("It should return all models that belongs to a particular brand", function (done) {
     var response = laptops.getModel('Optima');
     console.log(response)
-    // assert.equal(typeof response, "array");
+    assert.equal(typeof response, typeof []);
     assert.deepStrictEqual(response, [
       "OptimBook",
       "OptimBook Pro",
@@ -40,6 +40,14 @@ describe("laptops", function () {
       "Coral Pro",
       "Workstation Pro",
     ],);
+    assert.deepStrictEqual(laptops.getModel('Microtech'), [
+      "CoreBook i3",
+      "CoreBook R5",
+      "Corebook Notebook",
+      "Lite A",
+      "Lite C",
+      "E-book Lite"
+    ])
     done();
   });
   it("should get a particular laptop brand", function () {
@@ -66,7 +74,28 @@ describe("laptops", function () {
         "Workstation Pro",
       ],
     });
+    assert.deepEqual(laptops.getBrand("Microtech"), {
+      "brands": "Microtech",
+      "series": [
+          "Corebook",
+          "Corebook",
+          "Lite"
+      ],
+      "models": [
+          "CoreBook i3",
+          "CoreBook R5",
+          "Corebook Notebook",
+          "Lite A",
+          "Lite C",
+          "E-book Lite"
+      ]
+    })
 
     // console.log(response);
   });
+  it("should get all the series that belongs to a brand", function () {
+    var response = laptops.getSeries("Hp");
+    assert.equal(typeof response, typeof []);
+    assert.equal(response.length, 8)
+  })
 });
