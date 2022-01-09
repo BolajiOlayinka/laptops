@@ -1,6 +1,6 @@
 {
   "name": "laptops",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library that lists Laptop brands and models with no dependency",
   "main": "index.js",
   "bin":"index.js",

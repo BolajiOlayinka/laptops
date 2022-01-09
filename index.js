@@ -18,4 +18,32 @@ module.exports = {
       }
     });
   },
+  getModel: function (brand) {
+    // brand = _lower(brand);
+
+    if (!brand || brand == "") {
+        throw new Error('Error in getting Model');
+    }
+
+    const response = laptops.find(function (lapbrand) {
+        if(_lower(lapbrand.brands)===_lower(brand)){
+          return true
+        }
+    });
+    return response.models;
+},
+getSeries: function (brand) {
+  // brand = _lower(brand);
+
+  if (!brand || brand == "") {
+      throw new Error('Error in getting Laptop Series');
+  }
+
+  const response = laptops.find(function (lapbrand) {
+      if(_lower(lapbrand.brands)===_lower(brand)){
+        return true
+      }
+  });
+  return response.series;
+},
 };

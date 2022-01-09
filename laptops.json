@@ -1,7 +1,7 @@
 [
     {
         "brands": "all",
-        "series": null,
+        "series": [],
         "models": [
             "Apple",
             "HP",
@@ -70,7 +70,7 @@
     },
     {
         "brands": "popular",
-        "series": null,
+        "series": [],
         "models": [
             "Apple",
             "HP",
@@ -2188,7 +2188,7 @@
     },
     {
         "brands": "Origin PC",
-        "series": null,
+        "series": [],
         "models": [
             "Origin EVO15-S",
             "Origin EVO17-S",
@@ -2273,7 +2273,7 @@
     },
     {
         "brands": "Purism",
-        "series": null,
+        "series": [],
         "models": [
             "Librem 5",
             "Librem 14",
@@ -2290,7 +2290,7 @@
     },
     {
         "brands": "Allview",
-        "series": null,
+        "series": [],
         "models": [
             "Portable Workstation",
             "GamesBook",
@@ -2301,7 +2301,7 @@
     },
     {
         "brands": "Google",
-        "series": null,
+        "series": [],
         "models": [
             "Chromebook Pixel",
             "Pixelbook",
@@ -2358,7 +2358,7 @@
     },
     {
         "brands": "Nokia",
-        "series": null,
+        "series": [],
         "models": [
             "Purebook X14",
             "Purebook S14"
@@ -2436,7 +2436,7 @@
     },
     {
         "brands": "njoy",
-        "series": null,
+        "series": [],
         "models": [
             "Aerial",
             "Ediam"
@@ -2444,7 +2444,7 @@
     },
     {
         "brands": "Optima",
-        "series": null,
+        "series": [],
         "models": [
             "OptimBook",
             "OptimBook Pro",
@@ -2494,7 +2494,7 @@
     },
     {
         "brands": "Gateway",
-        "series": null,
+        "series": [],
         "models": [
             "v  2-in-1 Convertible",
             "Ultra Slim"
@@ -2652,7 +2652,7 @@
     },
     {
         "brands": "Alienware",
-        "series": null,
+        "series": [],
         "models": [
             "X15",
             "X16",
@@ -2662,7 +2662,7 @@
     },
     {
         "brands": "System76",
-        "series": null,
+        "series": [],
         "models": [
             "v Galago Pro",
             "Oryx Pro",
@@ -2731,7 +2731,7 @@
     },
     {
         "brands": "Hyundai",
-        "series": null,
+        "series": [],
         "models": [
             "Flip",
             "book",
@@ -2760,21 +2760,21 @@
     },
     {
         "brands": "Glovo",
-        "series": null,
+        "series": [],
         "models": [
             "Clevo"
         ]
     },
     {
         "brands": "BOXX",
-        "series": null,
+        "series": [],
         "models": [
             "GoBOXX"
         ]
     },
     {
         "brands": "Vastking",
-        "series": null,
+        "series": [],
         "models": [
             "KingPad",
             "Kingbook"
@@ -2782,7 +2782,7 @@
     },
     {
         "brands": "Fujitsu",
-        "series": null,
+        "series": [],
         "models": [
             "Notebook",
             "Lifebook"
@@ -2790,7 +2790,7 @@
     },
     {
         "brands": "Bmak",
-        "series": null,
+        "series": [],
         "models": [
             "Maxbook Y11",
             "Maxbook X15",
@@ -2800,7 +2800,7 @@
     },
     {
         "brands": "Machenike",
-        "series": null,
+        "series": [],
         "models": [
             "Machcreator",
             "T58",
@@ -2810,7 +2810,7 @@
     },
     {
         "brands": "Jumper",
-        "series": null,
+        "series": [],
         "models": [
             "EZpad go",
             "EZpad",
@@ -2819,7 +2819,7 @@
     },
     {
         "brands": "Durabook",
-        "series": null,
+        "series": [],
         "models": [
             "Z141",
             "S141",
@@ -2829,14 +2829,14 @@
     },
     {
         "brands": "Walmart",
-        "series": null,
+        "series": [],
         "models": [
             "Motile"
         ]
     },
     {
         "brands": "Cyberpower PC",
-        "series": null,
+        "series": [],
         "models": [
             "Tracer V Series",
             "Tracer IV",
@@ -2845,7 +2845,7 @@
     },
     {
         "brands": "VIT",
-        "series": null,
+        "series": [],
         "models": [
             "P1420",
             "P3310-01",
@@ -2854,7 +2854,7 @@
     },
     {
         "brands": "Lava International",
-        "series": null,
+        "series": [],
         "models": [
             "Twinpad",
             "Helium Series"
@@ -2862,7 +2862,7 @@
     },
     {
         "brands": "AGB",
-        "series": null,
+        "series": [],
         "models": [
             "Octev Series",
             "Tiara",
@@ -2871,7 +2871,7 @@
     },
     {
         "brands": "Zeuslap",
-        "series": null,
+        "series": [],
         "models": [
             "15.6",
             "13.3",
@@ -2880,14 +2880,14 @@
     },
     {
         "brands": "Xolo",
-        "series": null,
+        "series": [],
         "models": [
             "Chromebrook"
         ]
     },
     {
         "brands": "XMG",
-        "series": null,
+        "series": [],
         "models": [
             "Apex XMG FUSION",
             "Apex XMG NEO",
@@ -2908,14 +2908,14 @@
     },
     {
         "brands": "Obsidian Pc",
-        "series": null,
+        "series": [],
         "models": [
             "PC50"
         ]
     },
     {
         "brands": "Omen",
-        "series": null,
+        "series": [],
         "models": [
             "Omen 15",
             "Omen 16",
@@ -2926,7 +2926,7 @@
     },
     {
         "brands": "Falcon Northwest",
-        "series": null,
+        "series": [],
         "models": [
             "DRX",
             "TLX"
@@ -2934,7 +2934,7 @@
     },
     {
         "brands": "Velocity Micro",
-        "series": null,
+        "series": [],
         "models": [
             "Signature 17",
             "Raptor S77",
@@ -2943,14 +2943,14 @@
     },
     {
         "brands": "Sager Notebook Computers",
-        "series": null,
+        "series": [],
         "models": [
             "NP Series"
         ]
     },
     {
         "brands": "Digital Storm",
-        "series": null,
+        "series": [],
         "models": [
             "Avon 15",
             "Avon 17"
@@ -2958,7 +2958,7 @@
     },
     {
         "brands": "Eluktronics",
-        "series": null,
+        "series": [],
         "models": [
             "Prometheus XVI",
             "Prometheus XVII",
@@ -2971,7 +2971,7 @@
     },
     {
         "brands": "Overpowered",
-        "series": null,
+        "series": [],
         "models": [
             "v  Gaming Laptop 15",
             "Gaming Laptop 15+",
