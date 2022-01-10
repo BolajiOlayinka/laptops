@@ -30,7 +30,15 @@ console.log(laptops.getBrand("popular"))
 console.log(laptops.getBrand("Hp"))
 console.log(laptops.getModel("Asus"))
 console.log(laptops.getSeries("Apple"))
+
 ...
+```
+### Demo
+``` Javascript
+<a href="https://github.com/BolajiOlayinka/demo-laptops">Link to the github repository</a>
+
+<a href="https://demo-laptops.netlify.app/">Demo</a>
+
 ```
 
 | function        | argument                                            | response                                                                      |   |    |
