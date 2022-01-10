@@ -35,9 +35,11 @@ console.log(laptops.getSeries("Apple"))
 ```
 ### Demo
 ``` Javascript
-<a href="https://github.com/BolajiOlayinka/demo-laptops">Link to the github repository</a>
 
-<a href="https://demo-laptops.netlify.app/">Demo</a>
+[Link to the github repository](https://github.com/BolajiOlayinka/demo-laptops)
+
+[Demo](https://demo-laptops.netlify.app/)
+
 
 ```
 
