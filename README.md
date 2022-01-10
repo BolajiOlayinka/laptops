@@ -31,17 +31,15 @@ console.log(laptops.getBrand("Hp"))
 console.log(laptops.getModel("Asus"))
 console.log(laptops.getSeries("Apple"))
 
-...
 ```
 ### Demo
-``` Javascript
 
 [Link to the github repository](https://github.com/BolajiOlayinka/demo-laptops)
 
 [Demo](https://demo-laptops.netlify.app/)
 
 
-```
+
 
 | function        | argument                                            | response                                                                      |   |    |
 |-----------------|-----------------------------------------------------|-------------------------------------------------------------------------------|---|----|   
