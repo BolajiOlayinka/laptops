@@ -10,7 +10,7 @@
             "Acer",
             "Asus",
             "MSI",
-            "Microsoft Surface",
+            "Microsoft",
             "Razer",
             "Samsung",
             "Walton",
@@ -24,31 +24,28 @@
             "Google",
             "Maguay",
             "Huawei",
-            "Microsoft",
             "Panasonic",
             "Nokia",
-            "njay",
             "Optima",
-            "Micro-star International",
+            "Clevo",
             "VAIO",
             "Chuwi",
             "Gateway",
-            "Clevo",
+            "Njoy",
             "Alienware",
-            "Samsung Electronics",
             "Xiaomi",
             "Realme",
             "Dynabook",
             "System76",
             "BOXX",
             "Gigabyte",
-            "Hyundai Technology",
+            "Hyundai",
             "Fujitsu",
             "Bmax",
             "Vastking",
             "Machenike",
             "Jumper",
-            "EVOO",
+            "Evoo",
             "Durabook",
             "Origin PC",
             "Walmart",
@@ -89,7 +86,6 @@
             "Nokia",
             "VAIO",
             "Alienware",
-            "Samsung",
             "Fujitsu"
         ]
     },
@@ -403,7 +399,9 @@
     {
         "brands": "Apple",
         "series": [
-            "MacbookPro, Macbook Air,iMacs"
+            "MacbookPro",
+            "Macbook Air",
+            "iMacs"
         ],
         "models": [
             "MacBook Pro 2021 -14-inch",
@@ -2215,6 +2213,33 @@
         ]
     },
     {
+        "brands": "Xiaomi",
+        "series": [
+            "Mi",
+            "Redmi"
+        ],
+        "models": [
+            "Mi Notebook Pro",
+            "RedmiBook Pro 15",
+            "RedmiBook Pro 14",
+            "RedmiBook Air 13",
+            "RedmiBook 16",
+            "Redmi G gaming laptop",
+            "RedmiBook 13",
+            "RedmiBook 14"
+        ]
+    },
+    {
+        "brands": "Evoo",
+        "series": [],
+        "models": [
+            "Evoo Gaming",
+            "Evoo Ultra Thin Notebook 14.1 inches",
+            "Evoo Ultra Thin Notebook 12.5 inches",
+            "Evoo Ultrathin"
+        ]
+    },
+    {
         "brands": "Monster Notebook",
         "series": [
             "Abra",
@@ -2435,11 +2460,28 @@
         ]
     },
     {
-        "brands": "njoy",
+        "brands": "Njoy",
         "series": [],
         "models": [
             "Aerial",
             "Ediam"
+        ]
+    },
+    {
+        "brands": "Clevo",
+        "series": [],
+        "models": [
+            "NP55HK",
+            "NK60KJ",
+            "NS71MU",
+            "NV41MK (-D)",
+            "NJ50MU",
+            "X170KM-G",
+            "NS51MU",
+            "L141MU",
+            "NP55DB",
+            "NP50DE",
+            "NH77DEQ"
         ]
     },
     {
@@ -2731,13 +2773,17 @@
     },
     {
         "brands": "Hyundai",
-        "series": [],
+        "series": [
+            "HYbook",
+            "HYflip",
+            "ThinNote"
+        ],
         "models": [
             "Flip",
             "book",
             "flipnote",
             "thinnote",
-            "Hy Book"
+            "HyBook"
         ]
     },
     {
@@ -2789,13 +2835,20 @@
         ]
     },
     {
-        "brands": "Bmak",
+        "brands": "Bmax",
         "series": [],
         "models": [
             "Maxbook Y11",
+            "Maxbook Y11 Pro",
             "Maxbook X15",
             "Maxbook Y13",
-            "Maxbook Y13 Pro"
+            "Maxbook Y13 Power",
+            "Maxbook Y13 Pro",
+            "Maxbook Y14",
+            "Maxbook Y14 Pro",
+            "Maxbook S13 A",
+            "Maxbook S13 Pro",
+            "Maxbook X14"
         ]
     },
     {
