@@ -21,8 +21,9 @@ describe("laptops", function () {
   });
   it("It should return all models that belongs to a particular brand", function (done) {
     var response = laptops.getModel("Optima");
-    // console.log(response);
+
     assert.equal(typeof response, typeof []);
+    console.log(response);
     assert.deepStrictEqual(response, [
       "OptimBook",
       "OptimBook Pro",
@@ -86,8 +87,6 @@ describe("laptops", function () {
         "E-book Lite",
       ],
     });
-
-    // console.log(response);
   });
   it("should get all the series that belongs to a brand", function () {
     var response = laptops.getSeries("Hp");
