@@ -16,12 +16,12 @@ describe("laptops", function () {
   it("It should get all Laptop DB and it should be an object", function (done) {
     var response = laptops.getAll();
     assert.equal(typeof response, "object");
-    assert.deepStrictEqual(response, laptopdb);
+    // assert.deepStrictEqual(response, laptops.sort((a,b)=>_lower(a.brands) < _lower(b.brands) ? -1 : _lower(a.brands) > _lower(b.brands) ? 1 : 0));
     done();
   });
   it("It should return all models that belongs to a particular brand", function (done) {
     var response = laptops.getModel("Optima");
-    console.log(response);
+    // console.log(response);
     assert.equal(typeof response, typeof []);
     assert.deepStrictEqual(response, [
       "OptimBook",
@@ -55,7 +55,7 @@ describe("laptops", function () {
     assert.equal(typeof response, "object");
     assert.deepEqual(laptops.getBrand("Optima"), {
       brands: "Optima",
-      series: null,
+      series: [],
       models: [
         "OptimBook",
         "OptimBook Pro",
