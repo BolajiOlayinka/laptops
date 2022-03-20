@@ -6,7 +6,7 @@ function _lower(input) {
 
 module.exports = {
   getAll: function () {
-    return laptops;
+    return laptops.sort((a,b)=>_lower(a.brands) < _lower(b.brands) ? -1 : _lower(a.brands) > _lower(b.brands) ? 1 : 0)
   },
 
   getBrand: function (param) {
@@ -30,6 +30,7 @@ module.exports = {
           return true
         }
     });
+    // console.log(response.models.sort())
     return response.models;
 },
 getSeries: function (brand) {
@@ -44,6 +45,7 @@ getSeries: function (brand) {
         return true
       }
   });
+  
   return response.series;
 },
 };

@@ -1,14 +1,15 @@
 {
   "name": "laptops",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple library that lists Laptop brands and models with no dependency",
   "main": "index.js",
-  "bin":"index.js",
+  "bin": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "./node_modules/.bin/_mocha"
+    "test": "./node_modules/.bin/_mocha",
+    "lint": "eslint '*.js?(x)'"
   },
   "repository": {
     "type": "git",
@@ -23,17 +24,21 @@
     "hp",
     "dell",
     "macbook",
-    "acer"
+    "acer",
+    "Laptop Database",
+    "Laptops makes",
+    "laptops Series"
   ],
   "author": "Bolaji Olayinka",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/BolajiOlayinka/laptops/issues"
   },
-  "homepage": "https://github.com/BolajiOlayinka/laptops#readme",
+  "homepage": "https://demo-laptops.netlify.app",
   "devDependencies": {
     "assert": "^2.0.0",
     "chai": "^4.3.4",
+    "eslint": "^8.7.0",
     "mocha": "^9.1.3"
   }
 }
