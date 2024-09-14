@@ -50,9 +50,9 @@ console.log(laptops.getSeries("Apple"))
 
 
 ## Contributing
-This module tries to be exhaustive, if there are still laptops brands, models or series that havent been added,plese contribute to the project 
-* Fork this repositry to your account.
-* Clone your repositry: git clone git@github.com:your-username/laptops.git
+This module tries to be exhaustive, if there are still laptops brands, models or series that havent been added,please contribute to the project 
+* Fork this repository to your account.
+* Clone your repository: git clone git@github.com:your-username/laptops.git
 * Create your feature branch: git checkout -b"short feature description"
 * Commit your changes: git commit -m "feature"
 * Push to the remote branch: git push origin new-feature
