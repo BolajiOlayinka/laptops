@@ -407,6 +407,9 @@
             "iMacs"
         ],
         "models": [
+            "MacBook Pro (14-inch, M3)",
+            "MacBook Pro (14-inch, M3 Pro or M3 Max)",
+            "MacBook Pro (16-inch, M3 Pro or M3 Max)",
             "MacBook Pro 2021 -14-inch",
             "MacBook Pro 2021 -16-inch",
             "MacBook Pro 2020 - M1 -13-inch",
@@ -439,6 +442,9 @@
             "MacBook Pro 2008 15-inch",
             "MacBook Pro 2008 17-inch",
             "MacBook Air M1-2020",
+            "MacBook Air (13-inch, M2)",
+            "MacBook Air (13-inch, M3)",
+            "MacBook Air (15-inch, M3)",
             "MacBook Air 2019",
             "MacBook Air 2018",
             "MacBook Air 2017",

@@ -22,7 +22,7 @@ module.exports = {
     // brand = _lower(brand);
 
     if (!brand || brand == "") {
-        throw new Error('Error in getting Model');
+        throw new Error('Error in getting Laptop Models');
     }
 
     const response = laptops.find(function (lapbrand) {
